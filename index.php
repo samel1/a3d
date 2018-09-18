@@ -25,6 +25,6 @@
 
     <!--    <body style="height:568px;" onload="setTimeout(function() { window.scrollTo(0, 1) }, 10);">-->
     <body style="height:568px;" >
-        <div style="color:black;">Hello deploy test 1</div>
+        <div style="color:black;">Hello deploy test 1.A</div>
     </body>
     </html>
